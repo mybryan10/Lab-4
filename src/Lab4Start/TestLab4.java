@@ -1,10 +1,12 @@
 package Lab4Start;
 
-/**
- * Test the Faculty, Employee classes and Rules interface
- *
+/********************************************************************
+ * TestLab4.java
  * @author harmssk
- */
+ *
+ * Test the Faculty, Employee classes and Rules interface
+ ********************************************************************/
+
 public class TestLab4 {
 
     public static void main(String[] args) {
