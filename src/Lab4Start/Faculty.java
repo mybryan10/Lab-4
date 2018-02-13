@@ -26,6 +26,7 @@ package Lab4Start;
  *
  * @author Jaime Ortiz-Chavez
  */
+
 public class Faculty extends Employee {
 
     //added a variable
